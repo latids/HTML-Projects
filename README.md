@@ -1,4 +1,4 @@
-# Projects based on html,css and javascript
+## Projects based on html,css and javascript
 
 # The refactored versions of several projects entail the following improvements: 
   * Fixed unnecessary class names, addressed CSS errors, and removed unnecessary style codes.
